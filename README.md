@@ -10,7 +10,7 @@ Lamp indicator has 3 states:
 
 ## Usage
 
-By default it automatically enables on the [scope-items](https://dev.omega365.com/nt/scope-items/scope-item) app and starts refreshing the grid every 5 minutees.\
+By default it automatically enables on the [scope-items](https://dev.omega365.com/nt/scope-items/) app and starts refreshing the grid every 5 minutees.\
 To manually activate or stop the Reloader use right click on the refresh button
 
 ## Customization
